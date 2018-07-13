@@ -1,0 +1,10 @@
+{
+    "apps": [
+      {
+        "serverURL": "https://devherokuerigato.herokuapp.com/",
+        "appId": "erigatodevparse",
+        "masterKey": "erigatomasterkey",
+        "appName": "erigatohishimaserver"
+      }
+    ]
+  }
